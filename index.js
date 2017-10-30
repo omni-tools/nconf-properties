@@ -5,7 +5,6 @@ const options = exports.options = {
     variables: true,
     sections: true,
     namespaces: true,
-    include: true,
     comments: [";", "#"]
 };
 
