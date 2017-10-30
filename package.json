@@ -4,7 +4,7 @@
   "description": "Nconf format plugins for properties",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test/simple.js"
   },
   "keywords": [
     "nconf",
