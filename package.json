@@ -1,0 +1,12 @@
+{
+  "name": "nconf-properties",
+  "version": "0.1.0",
+  "description": "Nconf format plugins for properties",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["nconf", "properties"],
+  "author": "Adriean Khisbe <adriean.khisbe@live.fr> (https://github.com/AdrieanKhisbe/)",
+  "license": "ISC"
+}
