@@ -11,7 +11,7 @@
     "properties"
   ],
   "author": "Adriean Khisbe <adriean.khisbe@live.fr> (https://github.com/AdrieanKhisbe/)",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "properties": "^1.2.1"
   }
