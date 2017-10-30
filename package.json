@@ -1,6 +1,6 @@
 {
   "name": "nconf-properties",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Nconf format plugins for properties",
   "main": "index.js",
   "scripts": {
