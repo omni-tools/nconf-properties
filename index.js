@@ -1,6 +1,6 @@
 const properties = require ("properties");
 
-exports.options = {
+const options = exports.options = {
     path: true,
     variables: true,
     sections: true,
