@@ -6,7 +6,13 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["nconf", "properties"],
+  "keywords": [
+    "nconf",
+    "properties"
+  ],
   "author": "Adriean Khisbe <adriean.khisbe@live.fr> (https://github.com/AdrieanKhisbe/)",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "properties": "^1.2.1"
+  }
 }
