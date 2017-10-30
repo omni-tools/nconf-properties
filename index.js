@@ -1,5 +1,14 @@
 const properties = require ("properties");
 
-exports.stringify = obj => properties.stringify(obj)
+exports.options = {
+    path: true,
+    variables: true,
+    sections: true,
+    namespaces: true,
+    include: true,
+    comments: [";", "#"]
+};
 
-exports.parse = obj => properties.parse(obj);
+exports.stringify = obj => properties.stringify(obj, options);
+
+exports.parse = obj => properties.parse(obj, options);
