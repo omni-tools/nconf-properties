@@ -19,6 +19,12 @@
   "bugs": {
     "url": "https://github.com/omni-tools/nconf-properties/issues"
   },
+  "files": [
+    "LICENSE",
+    "README.md",
+    "index.js",
+    "package.json"
+  ],
   "license": "MIT",
   "dependencies": {
     "properties": "^1.2.1"
