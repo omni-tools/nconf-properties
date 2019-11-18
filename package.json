@@ -11,6 +11,14 @@
     "properties"
   ],
   "author": "Adriean Khisbe <adriean.khisbe@live.fr> (https://github.com/AdrieanKhisbe/)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/omni-tools/nconf-properties.git"
+  },
+  "homepage": "https://github.com/omni-tools/nconf-properties#readme",
+  "bugs": {
+    "url": "https://github.com/omni-tools/nconf-properties/issues"
+  },
   "license": "MIT",
   "dependencies": {
     "properties": "^1.2.1"
